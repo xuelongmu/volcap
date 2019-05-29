@@ -1,0 +1,15 @@
+# img = cv2.imread(infile,1)
+# bw = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+# resized = cv2.resize(bw, (0,0),fx=0.3,fy=0.3)
+# cv2.imshow('image', resized)
+# cv2.waitkey(0)
+# cv2.destroyAllWindows()
+
+# imageRaw = cv2.imread(infile, cv2.IMREAD_GRAYSCALE | cv2.IMREAD_ANYDEPTH)
+# cv2.imshow('imageRaw', 0)
+# cv2.waitKey(0)
+# cv2.destroyAllWindows()
+
+# im = cv2.imread("/home/xuelong/Pictures/Screenshot from 2019-05-05 08-48-44.png", 1)
+# cv2.imshow("img", im)
+# cv2.waitKey(0)
